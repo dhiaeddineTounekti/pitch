@@ -1,8 +1,5 @@
-# Welcome to your CDK TypeScript project
-
-This is a blank project for CDK development with TypeScript.
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
+# Welcome this is a sample solution to the project you have provided
+the file with the custom ecs construct is found in lib/construct/customEcs.ts
 
 ## Useful commands
 
